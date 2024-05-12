@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/f3KwliaH4MLtli8z7D" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pc-hacker-desing-f3KwliaH4MLtli8z7D">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndnd2p4ZzRkejJpbDdwdWJnMmxucmgyYnV5a2tsaDRuZHpxdXNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m Youssef Ahmed
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
