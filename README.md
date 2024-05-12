@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href=""https:"https://www.linkedin.com/in/youssef-ahmed-ramdan/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"><a href=""https:"https://www.linkedin.com/in/youssef-ahmed-ramdan/"></a></img>
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="istgram"/>
