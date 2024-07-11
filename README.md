@@ -21,7 +21,7 @@
 <h1 align="center">👋 Hi, I’m Youssef Ahmed</h1>
 
 <p align="center">
-  Welcome to my GitHub profile! I’m passionate about technology and continuously seeking to learn and grow in this ever-evolving field.
+  Welcome to my GitHub profile! I’m a seasoned machine learning engineer and researcher with a profound passion for quantum computing.
 </p>
 
 <h2>👀 I’m interested in ...</h2>
