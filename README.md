@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Youssef Ahmed Ramdan - AI Software Engineer, Computer Vision and LLM/RAG" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-ahmed-ramdan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:youssefahmed3803@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-334155?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-2563EB?style=flat" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20%2F%20RAG-7C3AED?style=flat" alt="LLM and RAG" />
+</p>
+
 # Youssef Ahmed Ramdan
 
 **AI Software Engineer | Computer Vision | LLM/RAG | Production ML Systems**
@@ -15,6 +26,16 @@ I design and ship applied AI systems that connect research, reliable data pipeli
 
 ## Selected work
 
+```mermaid
+flowchart LR
+    A[Community and external sources] --> B[Go ingestion and web scraping]
+    B --> C[Normalization and deduplication]
+    C --> D[Distributed ETL and evaluation data]
+    D --> E[Retrieval and fine-tuning]
+    E --> F[Web and mobile inference]
+    F --> G[Guidance with provenance]
+```
+
 ### Problem Solving Assistant (PSA) - LLM/RAG platform
 
 A verified-corpus assistant for competitive programmers. I designed the data path from community documentation, accepted and incorrect solutions, and external sources through web scraping, Go-based extraction, normalization, deduplication, distributed ETL, fine-tuning, evaluation, and web/mobile inference integration.
@@ -28,6 +49,12 @@ Applied AI systems for financial-statement extraction, table understanding, tran
 ### Computer-vision and generative-AI systems
 
 Selected areas include biometric verification, document OCR, virtual try-on, body and clothing segmentation, object detection, image synthesis, style transfer, drowsiness detection, sports analysis, and cloud/edge inference.
+
+## Technical toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,pytorch,tensorflow,fastapi,docker,kubernetes,azure,aws,gcp,postgres,mongodb,react&perline=7" alt="Python, Go, C++, PyTorch, TensorFlow, FastAPI, Docker, Kubernetes, Azure, AWS, Google Cloud, PostgreSQL, MongoDB, React" />
+</p>
 
 ## Research
 

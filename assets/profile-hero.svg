@@ -1,0 +1,30 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A3D"/>
+      <stop offset="0.52" stop-color="#123A78"/>
+      <stop offset="1" stop-color="#4B2A85"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1030 60) rotate(133) scale(330 380)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="22"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
+  <circle cx="1040" cy="64" r="72" fill="#5EEAD4" fill-opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1080" cy="220" r="84" fill="#60A5FA" fill-opacity="0.16" filter="url(#blur)"/>
+  <g opacity="0.28" stroke="#B8D7FF">
+    <path d="M760 48h350M720 90h400M770 132h330M720 174h400M760 216h350"/>
+    <path d="M812 26v230M872 26v230M932 26v230M992 26v230M1052 26v230"/>
+  </g>
+  <g fill="#EAF2FF">
+    <circle cx="812" cy="90" r="5"/><circle cx="932" cy="132" r="5"/><circle cx="1052" cy="174" r="5"/><circle cx="872" cy="216" r="5"/>
+  </g>
+  <text x="72" y="108" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">YOUSSEF AHMED RAMDAN</text>
+  <text x="74" y="153" fill="#B8D7FF" font-family="Arial, Helvetica, sans-serif" font-size="22">AI Software Engineer  •  Computer Vision  •  LLM/RAG</text>
+  <text x="74" y="198" fill="#DDE9FF" font-family="Arial, Helvetica, sans-serif" font-size="16">Production ML systems, data platforms, research, and measurable product outcomes.</text>
+  <rect x="74" y="228" width="208" height="34" rx="17" fill="#5EEAD4" fill-opacity="0.18" stroke="#5EEAD4" stroke-opacity="0.7"/>
+  <text x="178" y="250" text-anchor="middle" fill="#CFFAFE" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">OPEN TO AI COLLABORATION</text>
+</svg>
