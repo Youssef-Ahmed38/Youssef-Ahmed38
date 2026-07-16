@@ -87,5 +87,13 @@ Google Developer Group Community Organizer; TensorFlow User Group Organizer; Mic
 - Email: [youssefahmed3803@gmail.com](mailto:youssefahmed3803@gmail.com)
 - LinkedIn: [linkedin.com/in/youssef-ahmed-ramdan](https://www.linkedin.com/in/youssef-ahmed-ramdan)
 - GitHub: [github.com/Youssef-Ahmed38](https://github.com/Youssef-Ahmed38)
+- Portfolio: [youssefportfolio26.z1.web.core.windows.net](https://youssefportfolio26.z1.web.core.windows.net/)
+
+## Recruiter case studies
+
+- [PSA - verified LLM/RAG platform](./case-studies/psa.md)
+- [Fintech document intelligence](./case-studies/fintech-document-intelligence.md)
+- [Computer-vision systems](./case-studies/computer-vision.md)
+- [Research and optimization](./case-studies/research.md)
 
 > Most production work is private or confidential. For recruiting conversations, I can provide sanitized architecture diagrams, evaluation summaries, demos, and technical walkthroughs without exposing proprietary source code.
